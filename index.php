@@ -1,6 +1,6 @@
 <?php
 echo "<h1>Check that out!</h1>";
-echo "<h2>Quixis did it</h2>";
+echo "<h2>Autonomous?</h2>";
 echo "<h4>Quixis did it again</h4>";
 echo "<p>You've just created your first Web App for Containers app!</p>";
 echo "<p>You've just created your very own hello world!</p>";
